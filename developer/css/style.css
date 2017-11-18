@@ -1,0 +1,16 @@
+body{
+	padding-top: 0px;
+	 margin: 0px;
+}
+.btn,.btn-success,.btn-block{
+	position:static;
+	text-align:center;
+	padding-left:auto;
+	 	padding-right:auto;
+	 	padding-bottom:auto;
+	 	
+}
+footer{
+	
+	margin:45px;
+}
